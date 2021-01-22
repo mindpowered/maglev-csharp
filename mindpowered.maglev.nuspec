@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>mindpowered.maglev</id>
-    <version>0.7.15</version>
+    <version>0.7.16</version>
     <title>maglev</title>
     <authors>Mind Powered Corporation</authors>
     <owners>Mind Powered Corporation</owners>
@@ -10,13 +10,13 @@
     <projectUrl>https://mindpowered.dev/?ref=nuget</projectUrl>
     <iconUrl>https://www.website.com/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>MagLev</description>
-    <releaseNotes>Version 0.7.15</releaseNotes>
+    <description>internal bus</description>
+    <releaseNotes>Version 0.7.16</releaseNotes>
     <copyright>Copyright 2020 Mind Powered Corporation</copyright>
     <tags>mindpowered</tags>
     <dependencies>
     </dependencies>
-    <summary>MagLev</summary>
+    <summary>internal bus</summary>
   </metadata>
   <files>
     <file src="bin\maglev.dll" target="lib" />
