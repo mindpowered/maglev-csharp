@@ -39,7 +39,7 @@ namespace maglev {
 		
 		public virtual void send(global::Array<string> args) {
 			#line 26 "/my-component/src/maglev/Telemetry.hx"
-			string url = "https://telemetry.mindpowered.dev/send?";
+			string url = "http://telemetry.mindpowered.link/send?";
 			{
 				#line 27 "/my-component/src/maglev/Telemetry.hx"
 				int _g = 0;

@@ -44,7 +44,7 @@ nuget ...
 Add the following entry to your .csproj file:
 
 ```
-<PackageReference Include="mindpowered.maglev" Version="0.7.17" />
+<PackageReference Include="mindpowered.maglev" Version="0.7.18" />
 ```
 
 
