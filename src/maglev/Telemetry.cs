@@ -72,7 +72,14 @@ namespace maglev {
 			}
 			
 			#line 34 "/my-component/src/maglev/Telemetry.hx"
-			global::sys.Http.requestUrl(url);
+			try {
+				#line 34 "/my-component/src/maglev/Telemetry.hx"
+				global::sys.Http.requestUrl(url);
+			}
+			catch (global::System.Exception _g3){
+			}
+			
+			
 		}
 		#line default
 		
